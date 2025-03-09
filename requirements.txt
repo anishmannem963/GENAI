@@ -7,4 +7,3 @@ flask
 memory_profiler
 streamlit
 
-hehe
